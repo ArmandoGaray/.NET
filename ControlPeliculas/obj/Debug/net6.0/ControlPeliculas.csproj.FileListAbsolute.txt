@@ -1,0 +1,15 @@
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\obj\Debug\net6.0\ControlPeliculas.csproj.AssemblyReference.cache
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\obj\Debug\net6.0\ControlPeliculas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\obj\Debug\net6.0\ControlPeliculas.AssemblyInfoInputs.cache
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\obj\Debug\net6.0\ControlPeliculas.AssemblyInfo.cs
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\obj\Debug\net6.0\ControlPeliculas.csproj.CoreCompileInputs.cache
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\bin\Debug\net6.0\ControlPeliculas.exe
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\bin\Debug\net6.0\ControlPeliculas.deps.json
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\bin\Debug\net6.0\ControlPeliculas.runtimeconfig.json
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\bin\Debug\net6.0\ControlPeliculas.dll
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\bin\Debug\net6.0\ref\ControlPeliculas.dll
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\bin\Debug\net6.0\ControlPeliculas.pdb
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\obj\Debug\net6.0\ControlPeliculas.dll
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\obj\Debug\net6.0\ref\ControlPeliculas.dll
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\obj\Debug\net6.0\ControlPeliculas.pdb
+C:\Users\ENRCO\Downloads\.NET\ControlPeliculas\obj\Debug\net6.0\ControlPeliculas.genruntimeconfig.cache
