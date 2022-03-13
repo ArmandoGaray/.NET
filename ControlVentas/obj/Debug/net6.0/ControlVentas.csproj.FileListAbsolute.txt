@@ -1,0 +1,15 @@
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\obj\Debug\net6.0\ControlVentas.csproj.AssemblyReference.cache
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\obj\Debug\net6.0\ControlVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\obj\Debug\net6.0\ControlVentas.AssemblyInfoInputs.cache
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\obj\Debug\net6.0\ControlVentas.AssemblyInfo.cs
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\obj\Debug\net6.0\ControlVentas.csproj.CoreCompileInputs.cache
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\bin\Debug\net6.0\ControlVentas.exe
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\bin\Debug\net6.0\ControlVentas.deps.json
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\bin\Debug\net6.0\ControlVentas.runtimeconfig.json
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\bin\Debug\net6.0\ControlVentas.dll
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\bin\Debug\net6.0\ref\ControlVentas.dll
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\bin\Debug\net6.0\ControlVentas.pdb
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\obj\Debug\net6.0\ControlVentas.dll
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\obj\Debug\net6.0\ref\ControlVentas.dll
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\obj\Debug\net6.0\ControlVentas.pdb
+C:\Users\ENRCO\Downloads\.NET\ControlVentas\obj\Debug\net6.0\ControlVentas.genruntimeconfig.cache
